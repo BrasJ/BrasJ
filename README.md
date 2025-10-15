@@ -29,6 +29,9 @@
 
 ## 💻 Projects
 
+### 📊 Infra-Watch
+**Infra-Watch** is a backend-focused infrastructure telemetry and lifecycle dashboard. It simulates an internal platform tool used in DevOps and infrastructure engineering teams to monitor virtual machine (VM) performance, track configuration changes, and surface operational insights through visual dashboards.
+
 ### 🎮 TacticsCore  
 Modular, terminal-based turn-based tactics engine written in C++. Built to evolve into a full RPG with SDL2 rendering and advanced combat systems.
 
