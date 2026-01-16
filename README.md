@@ -29,19 +29,19 @@
 
 ## 💻 Projects
 
-### 📊 Infra-Watch
+### Infra-Watch
 **Infra-Watch** is a backend-focused infrastructure telemetry and lifecycle dashboard. It simulates an internal platform tool used in DevOps and infrastructure engineering teams to monitor virtual machine (VM) performance, track configuration changes, and surface operational insights through visual dashboards.
 
-### 🎮 TacticsCore  
+### Crypto Market Watcher  
+A high-performance C++ application for real-time crypto price ingestion, metric computation, alerting, and terminal dashboard visualization.
+
+### TacticsCore  
 Modular, terminal-based turn-based tactics engine written in C++. Built to evolve into a full RPG with SDL2 rendering and advanced combat systems.
 
-### 📖 Interactive Story Generator  
+### Interactive Story Generator  
 AI-powered story web app using Python (FastAPI), JavaScript (React), and SQLite. Generates dynamic narratives based on user input themes.
 
-### 🏠 Rental Property Finder  
-Full stack property booking platform built with React, Node.js, and MySQL. Includes OAuth login, advanced filtering, and responsive UI.
-
-### 🛒 E-Commerce Database System  
+### E-Commerce Database System  
 SQL-powered backend system for managing inventory, reports, and analytics. Developed using Python and MySQL with Agile team workflows.
 
 ---
